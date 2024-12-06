@@ -1,0 +1,7 @@
+COIN_NAME="shares"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="sharesd"
+COIN_CLI="shares-cli"
+COIN_FOLDER="/root/.shares"
+COIN_CONFIG="shares.conf"
+COIN_SERVICE="shares.service"
